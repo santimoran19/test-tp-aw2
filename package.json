@@ -1,0 +1,21 @@
+{
+  "name": "aw2",
+  "version": "1.0.0",
+  "description": "Un párrafo explicando el proyecto",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santimoran19/test-tp-aw2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/santimoran19/test-tp-aw2/issues"
+  },
+  "homepage": "https://github.com/santimoran19/test-tp-aw2#readme"
+}
